@@ -90,44 +90,59 @@ nav {
 
   width:100%;
 	position: sticky;
- 
+  overflow: auto;
+
   padding: 0px;
   height: fit-content;
 }
 
 nav ul {
-  display: inline-block;
+  
+  display: flex;
   vertical-align: top;
   list-style-type: none; 
   overflow: visible;
-
-  padding: 0px;
-
+  flex-direction: row; 
+  flex-wrap: wrap; 
+  padding: 8px;
+  margin:0px;
   margin-inline-start: 12px;
-  margin-inline-end: 12px;
+  margin-inline-end: 6px;
   padding-inline-start: 0px;
 }
 
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
 
+nav details {
+
+  margin:0px;
+  padding:0px;
+  overflow:hidden;
+}
 nav li {
-  margin: 4px 8px 12px 0px;
-  display: inline-block;
+  margin: 4px 8px 8px 0px;
 
+  height: 45px;
   vertical-align: top;
 }
 #banner {
   height: 45px;
   width: 270px;
-  display: inline-block;
+
   vertical-align: top;
   background: yellow;
 }
 
 nav li a, .nav-submenu summary {
-
+  display: inline-block;
    transition: 0.5s ease;
    color: var(--link-default);
-   padding: 4px 0px 12px 0px;
+   padding: 4px 0px 8px 0px;
    border-radius: 8px;
    background: var(--background-tertiary);
    font-family: bpdots;
@@ -139,12 +154,11 @@ nav li a, .nav-submenu summary {
 
 
 .nav-submenu[open] > summary {
-   background: var(--background-secondary);
+  margin-right: 4px;
+  background: var(--background-secondary);
 }
 
-.nav-submenu a {
-  margin-left:5px
-}
+
 
 nav li a:hover, .nav-submenu summary:hover {
   color: var(--link-hover);
