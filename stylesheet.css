@@ -63,7 +63,6 @@ a {
 }
 
 a:hover {
-
 	color: var(--link-hover);
 }
 
@@ -72,6 +71,7 @@ a:hover {
 /* Headers */
 h1, h2 {
    color: var(--text-header);
+   text-align: center;
  font-family: bpdots;
 }
 
@@ -79,77 +79,71 @@ h1, h2 {
 h2 {
   border-bottom: 5px solid var(--text-header);
 	font-size:30px;
+
 	padding-left:20px;
 	padding-right:20px;
 }
 /* navbar */
 nav { 
-  background: var(--background-secondary);
-  padding: 16px;
-	position: sticky;
-  margin: 0px;
-  overflow:hidden;
 
+  background: var(--background-secondary);
+
+  width:100%;
+	position: sticky;
+ 
+  padding: 0px;
+  height: fit-content;
 }
 
 nav ul {
-    max-height:36px;
+  display: inline-block;
+  vertical-align: top;
   list-style-type: none; 
-  flex-wrap: wrap;
-  margin: 0px; 
-  padding-bottom: 16px;
+  overflow: visible;
+
+  padding: 0px;
+
+  margin-inline-start: 12px;
+  margin-inline-end: 12px;
+  padding-inline-start: 0px;
 }
+
 
 nav li {
-   align-self: flex-end;
+  margin: 4px 8px 12px 0px;
   display: inline-block;
-  margin: 8px 8px 2px 2px;
 
+  vertical-align: top;
 }
- .nav-submenu summary {
-   display:inline-block;
- }
-
 #banner {
-  width: 100vw;
-  padding: 0px; 
-  margin:0px
-}
-/* Minimum width */
-@media (min-width: 1080px) {
-  #banner {
-    background: yellow;
-    width: 20vw;
-  }
+  height: 45px;
+  width: 270px;
+  display: inline-block;
+  vertical-align: top;
+  background: yellow;
 }
 
 nav li a, .nav-submenu summary {
-    transition: 0.5s ease;
+
+   transition: 0.5s ease;
    color: var(--link-default);
-   padding: 3px;
+   padding: 4px 0px 12px 0px;
    border-radius: 8px;
    background: var(--background-tertiary);
    font-family: bpdots;
    font-size:24px;
    text-decoration: none;  
+   border-bottom: 6px solid var(--link-default);
 }
 
-.nav-submenu summary {
-  border-bottom: 6px solid var(--link-default);
-  margin:0px
-}
+
 
 .nav-submenu[open] > summary {
    background: var(--background-secondary);
 }
 
-nav li a{ 
-   border-bottom: 6px solid var(--link-default);
-}
-
 .nav-submenu a {
-    display:inline-block;
-     margin-left:5px
+  margin-left:5px
 }
 
 nav li a:hover, .nav-submenu summary:hover {
