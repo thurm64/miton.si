@@ -40,7 +40,8 @@
   --background-tertiary: #000000;
   --text-header: #33dddd;
   --text-default: #ffdddd;
-  --link-default:  #22cccc;
+  --text-accent: #ffaacc;
+  --nav-accent:  #22cccc;
   --link-hover:  #ffffff;
 }
 
@@ -56,10 +57,10 @@ body {
 /* Other document-wide styles */
 
 a {
-	color: var(--link-default);
-  text-decoration: none;
+	color: var(--text-accent);
+
   transition: 0.5s ease;
-  border-bottom: 0px solid var(--link-default);
+  border-bottom: 0px solid var(--text-accent);
 }
 
 a:hover {
@@ -69,19 +70,24 @@ a:hover {
 
 
 /* Headers */
-h1, h2 {
-   color: var(--text-header);
-   text-align: center;
+h1, h2, h3, h4, h5, h6 {
+
  font-family: bpdots;
 }
 
-
-h2 {
+h1,h2 {
+  
+  color: var(--text-header);
+  text-align: center;
   border-bottom: 5px solid var(--text-header);
-	font-size:30px;
+}
 
-	padding-left:20px;
-	padding-right:20px;
+h3, h4, h5, h6 {
+  text-decoration: underline;
+  color: var(--text-accent);
+}
+h1 {
+	font-size:30px;
 }
 /* navbar */
 nav { 
@@ -139,16 +145,17 @@ nav li {
 }
 
 nav li a, .nav-submenu summary {
+  
   display: inline-block;
    transition: 0.5s ease;
-   color: var(--link-default);
+   color: var(--nav-accent);
    padding: 4px 0px 8px 0px;
    border-radius: 8px;
    background: var(--background-tertiary);
    font-family: bpdots;
    font-size:24px;
    text-decoration: none;  
-   border-bottom: 6px solid var(--link-default);
+   border-bottom: 6px solid var(--nav-accent);
 }
 
 
@@ -193,6 +200,6 @@ body {
   font-family: Roboto Mono;
 }
 p, li{
-
-	font-size:22px;
+  
+	font-size:15px;
 }
