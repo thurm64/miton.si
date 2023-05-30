@@ -77,7 +77,6 @@ h1, h2 {
 
 
 h2 {
-	
   border-bottom: 5px solid var(--text-header);
 	font-size:30px;
 	padding-left:20px;
@@ -110,11 +109,18 @@ nav li {
  .nav-submenu summary {
    display:inline-block;
  }
+
 #banner {
   width: 100vw;
   padding: 0px; 
   margin:0px
-  
+}
+/* Minimum width */
+@media (min-width: 1080px) {
+  #banner {
+    background: yellow;
+    width: 20vw;
+  }
 }
 
 nav li a, .nav-submenu summary {
