@@ -27,7 +27,7 @@ echo file_get_contents("templates/nav_template.html");
   <p>kin la, mi kepeken ilo ni:</p>
   <ul>
     <li>ilo <abbr title="Youtube">Jutu</abbr>: <b><a target="_blank" href="https://www.youtube.com/@janJami-gh8rq">jan Jami</a></b></li>
-    <li>kepeken ilo <abbr title="Discord">Siko</abbr>: <b>thurm#1337</b></p></li>
+
   </ul>
 </main>
 </body>
