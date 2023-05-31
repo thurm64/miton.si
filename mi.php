@@ -27,7 +27,7 @@ echo file_get_contents("templates/nav_template.html");
   <p>kin la, mi kepeken ilo ni:</p>
   <ul>
     <li>ilo <abbr title="Youtube">Jutu</abbr>: <b><a target="_blank" href="https://www.youtube.com/@janJami-gh8rq">jan Jami</a></b></li>
-
+    <li>ilo <abbr title="SoundCloud">SanKon</abbr>: <b><a target="_blank" href="https://soundcloud.com/thurm64">thurm64</a></b></li>
   </ul>
 </main>
 </body>
