@@ -16,6 +16,7 @@ echo file_get_contents("templates/nav_template.html");
     <p>toki a! mi jan Jami. mi lon e lipu ni.
       <br>mi tonsi. mi olin e ale. mi tan ma Mewika. tenpo sike <abbr title="luka luka luka tu wan (18)">LLLTW</abbr> la mi lon.
       <br>mi la, musi <abbr title="Tetris">Tesi</abbr> en musi <abbr title="Chess">Sesi</abbr> en musi <abbr title="Minecraft">Manka</abbr> li musi.
+      <br>mi pali e kalama musi a! ni la, mi kepeken nasin pi ilo NES lon tenpo mute.
     </p>
     <p></p>
   <h2>o toki tawa mi!</h2>
