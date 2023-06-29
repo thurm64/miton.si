@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <?php
-echo file_get_contents("templates/header_info.html");
+echo file_get_contents("/templates/header_info.html");
 ?>
 
 <body>
 <?php
-echo file_get_contents("templates/nav_template.html");
+echo file_get_contents("/templates/nav_template.html");
 ?>
 <script type="module" src="https://md-block.verou.me/md-block.js"></script>
     <body>
