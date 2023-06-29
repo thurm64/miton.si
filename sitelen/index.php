@@ -24,9 +24,5 @@ if ($handle = opendir($path)) {
     closedir($handle);
 }
 ?>
-<md-block>
-    # Heading
-    __test__
-    Some *embedded* Markdown which `md-block` can convert for you!
-            </md-block>
+
 </body>
