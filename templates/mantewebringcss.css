@@ -31,7 +31,7 @@
 .webring-prev,
 .webring-next {
 
-    flex-grow: 0;
+    flex-grow: 1;
 }
 
 .webring-next {
@@ -41,6 +41,6 @@
 .webring-info {
     width: 100%;
     flex: 4;
-    flex-grow: 1;
+
     text-align: center;
 }
