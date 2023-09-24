@@ -1,0 +1,43 @@
+        #mante { 
+   
+            
+            border-radius: 8px;
+            
+            
+            padding: 8px;
+            color: black;
+            background: linear-gradient(-45deg, #aaddff, #ffcccc, #ffffff, #ffcccc, #aaddff)
+        }
+        #mante .webring-inner {
+            display:flex; 
+            flex-direction: row;
+        }
+        #mante a {
+            color: black;
+            text-decoration-color: linear-gradient( #ff6666 0%,  #66ff66 33%, #6666ff 67%, #ff6666 100%);
+        }
+    
+        #mante a:hover {
+            color: black;
+        }
+    
+        #mante table {
+            width: 100%;
+            color: black;
+        }
+    
+        .webring-prev,
+        .webring-next {
+            width: 100px;
+            flex-grow: 1;
+        }
+    
+        .webring-next {
+            text-align: right
+        }
+        
+        .webring-info {
+            flex-grow: 8;
+            text-align: center;
+        }
+        
