@@ -47,6 +47,7 @@
 
 
 body {
+  font-family: bpdots;
 
   margin:0px;
   min-height: 100vh;
@@ -72,7 +73,7 @@ a:hover {
 /* Headers */
 h1, h2, h3, h4, h5, h6 {
 
- font-family: bpdots;
+  font-family: bpdots;
 }
 
 h1,h2 {
@@ -86,6 +87,7 @@ md-block h1, md-block h2, h3, h4, h5, h6 {
   text-decoration: underline;
   text-align: left;
   color: var(--text-accent);
+  border-bottom: 0px;
 }
 h1 {
 	font-size:30px;
