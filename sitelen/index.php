@@ -24,19 +24,5 @@ if ($handle = opendir($path)) {
     closedir($handle);
 }
 ?>
-<div id="mante" class="webring">
-    <link rel="stylesheet" href="https://miton.si/mantewebringcss.css">
 
-        <div class="webring-inner">
-            <span class="webring-prev">&lt;- previous</span>
-            <span class="webring-info">This site is part of the mante webring<br>
-                    <a href="javascript:void(0)" onclick="randomSite()">random</a> | 
-                    <a href="https://the-blob-system.neocities.org/mante_webring/webring">index</a> | 
-                    <a href="https://garlic.garden/onionring/">what is this?</a></span>
-
-            <span class="webring-next">next -&gt;</span></td>
-        </div>
-        <script type="text/javascript" src="https://the-blob-system.neocities.org/mante_webring/onionring-variables.js"></script>
-        <script type="text/javascript" src="https://the-blob-system.neocities.org/mante_webring/onionring-widget.js"></script>
-        </div>
 </body>
