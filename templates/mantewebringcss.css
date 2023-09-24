@@ -8,10 +8,7 @@
             color: black;
             background: linear-gradient(-45deg, #aaddff, #ffcccc, #ffffff, #ffcccc, #aaddff)
         }
-        #mante .webring-inner {
-            display:flex; 
-            flex-direction: row;
-        }
+
         #mante a {
             color: black;
             text-decoration-color: linear-gradient( #ff6666 0%,  #66ff66 33%, #6666ff 67%, #ff6666 100%);
@@ -22,6 +19,8 @@
         }
     
         #mante table {
+            flex-direction: row;
+            display:flex; 
             width: 100%;
             color: black;
         }
