@@ -19,7 +19,7 @@ if ($handle = opendir($path)) {
         if ('.' === $file) continue;
         if ('..' === $file) continue;
         $markdown = file_get_contents($path."/".$file);
-        print("<md-block id=\"$file\">$markdown  \n*nasin pi lipu lili ni (link to this post)* https://miton.si/sitelen#$file  \n*o tawa sewi (back to top):* https://miton.si/sitelen#</md-block><br><hr><br>");
+        print("<md-block id=\"$file\">$markdown  \n*nasin pi lipu lili ni (link to this post):* https://miton.si/sitelen#$file  \n*o tawa sewi (back to top):* https://miton.si/sitelen#</md-block><br><hr><br>");
     }
     closedir($handle);
 }
