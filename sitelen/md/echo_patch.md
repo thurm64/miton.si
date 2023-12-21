@@ -36,7 +36,7 @@ Restart the headset.
 If you previously owned Echo VR, it will appear on the home screen. When you open the app, you will recieve a prompt. **DO NOT** press the "restore" button! Press "Open App" instead.  
 
 ### Step 8 (optional but useful): Install Spark Mini
-Spark mini allows you to join private lobbies with a link:  
-https://ignitevr.gg/spark-mini/
+Spark mini allows you to join private lobbies with a link: https://ignitevr.gg/spark-mini/  
+Download and install the Quest APK. 
   
 *nimi (tags):* `echo vr, kokosila`
