@@ -19,6 +19,7 @@ echo file_get_contents("templates/nav_template.html");
     hi! i'm jami, and this is my website.  
     on this website i'll make tools for, as well as write in and about toki about the constructed language *toki pona*. i'll also post other things on my [blog](/sitelen)  
     if you want to learn more about who i am, check [this page](mi.php)
+</md-block>
     <link rel="stylesheet" href="https://miton.si/templates/mantewebringcss.css">
     <div id="mante" class="webring"></div>
 
