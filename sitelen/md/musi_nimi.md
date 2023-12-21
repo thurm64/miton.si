@@ -101,4 +101,4 @@
 
     jan ante la, sina jo e mani suli la, sina jan pona!  
 
-*tags:* `musi, musi nimi, toki pona, tpt, majuna`
+*tags:* `musi, musi nimi, toki pona, tpt, majuna`  
