@@ -37,6 +37,7 @@ If you previously owned Echo VR, it will appear on the normal homescreen, with a
 
 ### Step 8 (optional but useful): Install Spark Mini
 Spark mini allows you to join private lobbies with a link, as currently parties do not work properly on Standalone: https://ignitevr.gg/spark-mini/  
-Download and install the Quest APK. 
-  
+Download and install the Quest APK.  
+Make sure you toggle on "Enable API Access" in the "Net Status" settings of Echo VR. Then you should be able to go into a private match, open the quest menu, open spark mini, and get a link to share with other people. 
+
 *nimi (tags):* `echo vr, kokosila`
