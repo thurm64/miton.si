@@ -1,6 +1,7 @@
     # musi nimi pi toki pona
 
     *(o sona e ni: mi pali e lipu ni lon tenpo pini suli. ken mi pi toki pona li ike lili lon tenpo ni.)*
+    
     musi nimi li musi supa pi nimi pi toki pona. lipu ni li toki e nasin musi pi musi nimi.
 
     ## ijo pi musi ni
@@ -98,6 +99,6 @@
     ### weka pi kiwen lon
     jan ante li weka e mani pi kiwen ale ona, li pana e mani ni tawa jan pi kiwen ala.
 
-    jan ante la, sina jo e mani suli la, sina jan pona!
+    jan ante la, sina jo e mani suli la, sina jan pona!  
 
-
+*tags:* `musi, musi nimi, toki pona, tpt, majuna`

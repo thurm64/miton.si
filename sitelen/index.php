@@ -25,4 +25,13 @@ if ($handle = opendir($path)) {
 }
 ?>
 
+<script>
+const element = document.querySelector(location.hash)
+const topPos = element.getBoundingClientRect().top + window.pageYOffset
+
+window.scrollTo({
+  top: topPos, // scroll so that the element is at the top of the view
+  behavior: 'smooth' // smooth scroll
+})</script>
+
 </body>
