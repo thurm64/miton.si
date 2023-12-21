@@ -9,7 +9,7 @@ echo file_get_contents("../templates/header_info.html");
 <?php
 echo file_get_contents("../templates/nav_template.html");
 ?>
-<script type="module" src="https://md-block.verou.me/md-block.js"></script>
+
     <body>
 <?php
 $path = "./md";
@@ -19,7 +19,7 @@ if ($handle = opendir($path)) {
         if ('.' === $file) continue;
         if ('..' === $file) continue;
         $markdown = file_get_contents($path."/".$file);
-        print("<md-block id=\"$file\">$markdown  \n*link to this post:* https://miton.si/sitelen#$file  \n*back to top:* https://miton.si/sitelen#</md-block><br><hr><br>");
+        print("<md-block id=\"$file\">$markdown  \n*nasin pi lipu lili ni (link to this post)* https://miton.si/sitelen#$file  \n*o tawa sewi (back to top):* https://miton.si/sitelen#</md-block><br><hr><br>");
     }
     closedir($handle);
 }
