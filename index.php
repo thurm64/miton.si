@@ -14,11 +14,11 @@ echo file_get_contents("templates/nav_template.html");
     ## o kama pona tawa lipu mi! 
     toki a! mi jan Jami. ni li lipu mi! 
     lon lipu ni la mi wile toki pona li wile toki e toki pona li wile pali e ilo pi toki pona. kin la, mi pana e ijo ante mi tawa lipu [sitelen](/sitelen).  
-    sina wile sona e mi la o lukin e lipu [ni](mi.php)
+    sina wile sona e mi la o lukin e lipu [ni](mi.php).
     ## welcome to my website!
     hi! i'm jami, and this is my website.  
-    on this website i'll make tools for, as well as write in and about toki about the constructed language *toki pona*. i'll also post other things on my [blog](/sitelen)  
-    if you want to learn more about who i am, check [this page](mi.php)
+    on this website i'll make tools for, as well as write in and about toki about the constructed language *toki pona*. i'll also post other things on my [blog](/sitelen).  
+    if you want to learn more about who i am, check [this page](mi.php).
 </md-block>
     <link rel="stylesheet" href="https://miton.si/templates/mantewebringcss.css">
     <div id="mante" class="webring"></div>
