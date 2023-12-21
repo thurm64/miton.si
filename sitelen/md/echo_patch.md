@@ -8,8 +8,7 @@ Have your quest in developer mode, and have sidequest installed on your PC. If y
 
 ### Step 1: Download base game files
 
-Download the APK and OBB from here:
-(https://mega.nz/folder/iBMgXb7Z)  
+Download the APK and OBB from here: https://mega.nz/folder/iBMgXb7Z  
 password: `DFY_2VG4QyJ5vH3ffJNP1Q`
 
 ### Step 2: File transfer
@@ -20,7 +19,7 @@ Next, go to `/Android/obb/`. Create a new folder `com.readyatdawn.r15`. Place th
 
 ### Step 3: Install the patch tool
 
-Download is at (https://github.com/Aldin101/Cross-Platform-Echo-Relay-Quest-Patcher/releases/latest)
+Download is at https://github.com/Aldin101/Cross-Platform-Echo-Relay-Quest-Patcher/releases/latest
 
 **Step 4: Patch the APK**
 Open the patcher from your unknown sources. Set up your username and password. Select the Echo Arena/Combat Server at the top of the list. Import the APK you placed earlier and patch it. The patched APK should be in your Downloads folder when it finishes.
@@ -36,6 +35,6 @@ If you previously owned Echo VR, it will appear on the home screen. **DO NOT** p
 
 ### Step 8 (optional but useful): Install Spark Mini
 Spark mini allows you to join private lobbies with a link:  
-(https://ignitevr.gg/spark-mini/)  
+https://ignitevr.gg/spark-mini/
   
 *tags:* `echo vr, kokosila`
