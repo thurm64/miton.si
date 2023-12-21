@@ -66,8 +66,8 @@ I am also a moderator at [*ma pona pi toki pona*](https://discord.gg/mapona). Co
 ### what are your socials?
 If you want to reach out, here are some of the other places you can find me:
 - email `jami@miton.si`
-- discord:`janJami`
-- VRChat `thurm64`
+- discord: `janJami`
+- VRChat: `thurm64`
 - youtube: [jan Jami](https://www.youtube.com/@janJami-gh8rq)
 
 </md-block>
