@@ -24,8 +24,7 @@ Place the OBB file into this folder.
 Download is at https://github.com/Aldin101/Cross-Platform-Echo-Relay-Quest-Patcher/releases/latest
 
 ### Step 4: Patch the APK
-Open the patcher from "Unknown Sources". Set up your username and password. Select the Echo Arena/Combat Server at the top of the list. Import the APK you placed earlier and patch it. The patched APK should be in your Downloads folder when it finishes.
-
+Open the patcher from "Unknown Sources". Set up your username and password. Select the Echo Arena/Combat Server at the top of the list. Import the APK you placed earlier and patch it. This may take a few seconds, but when it finishes a confirmation screen will show up, and the patched APK should be in your Downloads folder.
 ### Step 5: Install the patched APK
 Transfer the file back to the PC and install the patched APK with SideQuest. 
 
