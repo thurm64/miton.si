@@ -4,7 +4,7 @@ These are the steps that worked for me - your mileage may vary.
 
 ### Step 0: Preparation
 
-Make sure your Quest is in developer mode, and that you have SideQuest on your PC/Quest, or some other way of installing APK files, like BugJaeger (if you have an android phone). For this purpose i'll just refer to SideQuest. If you have Echo VR installed already, uninstall it. 
+Make sure your Quest is in developer mode, and that you have SideQuest on your PC/Quest, or some other way of installing APK files, like BugJaeger (if you have an android phone). For the sake of this example, I will use SideQuest. If you have Echo VR installed already, uninstall it. 
 
 ### Step 1: Download base game files
 
