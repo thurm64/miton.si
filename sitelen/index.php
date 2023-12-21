@@ -19,7 +19,7 @@ if ($handle = opendir($path)) {
         if ('.' === $file) continue;
         if ('..' === $file) continue;
         $markdown = file_get_contents($path."/".$file);
-        print("<md-block id=\"$file\">$markdown</md-block>");
+        print("<md-block id=\"$file\">$markdown  \n**link to this post: ** (https://miton.si/sitelen#$file)</md-block>");
     }
     closedir($handle);
 }
