@@ -23,17 +23,17 @@ Place the OBB file into this folder.
 
 Download is at https://github.com/Aldin101/Cross-Platform-Echo-Relay-Quest-Patcher/releases/latest
 
-**Step 4: Patch the APK**
-Open the patcher from your unknown sources. Set up your username and password. Select the Echo Arena/Combat Server at the top of the list. Import the APK you placed earlier and patch it. The patched APK should be in your Downloads folder when it finishes.
+### Step 4: Patch the APK
+Open the patcher from "Unknown Sources". Set up your username and password. Select the Echo Arena/Combat Server at the top of the list. Import the APK you placed earlier and patch it. The patched APK should be in your Downloads folder when it finishes.
 
 ### Step 5: Install the patched APK
-Transfer the file back to the PC and install the patched APK. 
+Transfer the file back to the PC and install the patched APK with SideQuest. 
 
 ### Step 6: Restart
 Restart the headset. 
 
 ### Step 7: Open Echo
-If you previously owned Echo VR, it will appear on the home screen. When you open the app, you will recieve a prompt. **DO NOT** press the "restore" button! Press "Open App" instead.  
+If you previously owned Echo VR, it will appear on the normal homescreen, with a small icon in the top right corner. When you open the app, you will recieve a prompt. **DO NOT** press the "restore" button! Press "Open App" instead.  
 
 ### Step 8 (optional but useful): Install Spark Mini
 Spark mini allows you to join private lobbies with a link: https://ignitevr.gg/spark-mini/  
