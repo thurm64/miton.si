@@ -39,4 +39,4 @@ If you previously owned Echo VR, it will appear on the home screen. **DO NOT** p
 Spark mini allows you to join private lobbies with a link:  
 https://ignitevr.gg/spark-mini/
   
-*tags:* `echo vr, kokosila`
+*nimi (tags):* `echo vr, kokosila`
