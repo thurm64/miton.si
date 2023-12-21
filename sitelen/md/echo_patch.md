@@ -33,7 +33,7 @@ Transfer the file back to the PC and install the patched APK.
 Restart the headset. 
 
 ### Step 7: Open Echo
-If you previously owned Echo VR, it will appear on the home screen. **DO NOT** press the "restore" button! Press "Open App" instead.  
+If you previously owned Echo VR, it will appear on the home screen. When you open the app, you will recieve a prompt. **DO NOT** press the "restore" button! Press "Open App" instead.  
 
 ### Step 8 (optional but useful): Install Spark Mini
 Spark mini allows you to join private lobbies with a link:  
