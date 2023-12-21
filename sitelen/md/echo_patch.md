@@ -4,7 +4,7 @@ These are the steps that worked for me - your mileage may vary.
 
 ### Step 0: Preparation
 
-Have your quest in developer mode, and have sidequest installed on your PC. If you have Echo VR installed already, uninstall it. 
+Make sure your Quest is in developer mode, and that you have SideQuest on your PC/Quest, or some other way of installing APK files, like BugJaeger (if you have an android phone). For this purpose i'll just refer to SideQuest. If you have Echo VR installed already, uninstall it. 
 
 ### Step 1: Download base game files
 
@@ -13,8 +13,8 @@ password: `DFY_2VG4QyJ5vH3ffJNP1Q`
 
 ### Step 2: File transfer
 
-In sidequest, open the file browser.  
-First, place the APK file in downloads or somewhere similarly easy to access.  
+In SideQuest, open the file browser.  
+First, place the APK file in the Downloads folder, or somewhere similarly easy to access.  
 Next, go to `/Android/obb/`.  
 Create a new folder `com.readyatdawn.r15`.  
 Place the OBB file into this folder.  
@@ -25,8 +25,9 @@ Download is at https://github.com/Aldin101/Cross-Platform-Echo-Relay-Quest-Patch
 
 ### Step 4: Patch the APK
 Open the patcher from "Unknown Sources". Set up your username and password. Select the Echo Arena/Combat Server at the top of the list. Import the APK you placed earlier and patch it. This may take a few seconds, but when it finishes a confirmation screen will show up, and the patched APK should be in your Downloads folder.
+
 ### Step 5: Install the patched APK
-Transfer the file back to the PC and install the patched APK with SideQuest. 
+Install the patched APK with SideQuest. 
 
 ### Step 6: Restart
 Restart the headset. 
@@ -35,7 +36,7 @@ Restart the headset.
 If you previously owned Echo VR, it will appear on the normal homescreen, with a small icon in the top right corner. When you open the app, you will recieve a prompt. **DO NOT** press the "restore" button! Press "Open App" instead.  
 
 ### Step 8 (optional but useful): Install Spark Mini
-Spark mini allows you to join private lobbies with a link: https://ignitevr.gg/spark-mini/  
+Spark mini allows you to join private lobbies with a link, as currently parties do not work properly on Standalone: https://ignitevr.gg/spark-mini/  
 Download and install the Quest APK. 
   
 *nimi (tags):* `echo vr, kokosila`
