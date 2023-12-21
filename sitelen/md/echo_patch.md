@@ -1,4 +1,4 @@
-# How to patch your Echo VR install on Standalone
+# How to patch your Echo VR install on Quest Standalone
 
 These are the steps that worked for me - your mileage may vary.
 
@@ -15,7 +15,9 @@ password: `DFY_2VG4QyJ5vH3ffJNP1Q`
 
 In sidequest, open the file browser.  
 First, place the APK file in downloads or somewhere similarly easy to access.  
-Next, go to `/Android/obb/`. Create a new folder `com.readyatdawn.r15`. Place the OBB file into this folder.  
+Next, go to `/Android/obb/`.  
+Create a new folder `com.readyatdawn.r15`.  
+Place the OBB file into this folder.  
 
 ### Step 3: Install the patch tool
 
